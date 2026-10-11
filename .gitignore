@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env*.local
+data/
+
+# Environment variables and secrets
+.env*
+!.env.example
