@@ -12,8 +12,6 @@
 ## Admin panel
 Click "Admin Login" in the top menu or the footer, or open http://localhost:3000/admin
 
-- Default username: `admin`
-- Default password: `Ash@Admin#2026`
 
 Edit projects (with image upload), services (add / delete / icons) and contact info. Click "Save changes".
 
